@@ -1,2 +1,9 @@
-# clube_programacao_uffs
-Clube de programação UFFS - Turma Lovelace
+
+# Clube de programação - Turma Lovelace
+
+## UFFS Chapecó
+
+Linguagem: C++   
+Para compilar: ```g++ -Wall *.cpp -o main``` 
+
+Beecrowd: https://judge.beecrowd.com/pt 
