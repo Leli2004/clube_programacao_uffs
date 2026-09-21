@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// 16/10
 // Posso fazer um quadrado
 // https://codeforces.com/problemset/problem/1915/C?locale=ru
 
